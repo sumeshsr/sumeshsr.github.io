@@ -1,18 +1,10 @@
 # links section data
-- last_name: Name 1
-  first_name:
-  desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
+- last_name: Overflow
+  first_name: Stack
+  website: https://stackoverflow.com/users/6305498
+  # email: ceo@google.com
 
-- last_name: Donate
-  first_name: Jalpc
-  desc: Support Jalpc
-  website: http://www.jarrekk.com/donate/
-  email: me@jarrekk.com
-
-- last_name: LN
-  first_name: FN
-  desc: COO
-  website: https://github.com
-  email: coo@google.com
+- last_name: Rank
+  first_name: Hacker
+  # desc: Support Jalpc
+  website: https://www.hackerrank.com/sumeshsr
