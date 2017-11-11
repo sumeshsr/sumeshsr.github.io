@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in SQL, PHP, WordPress, Joomla, Drupal, Typo3 and Databases. Strong engineering professional with a Bachelor of Computer Application focused in Computer Science from National Institute of Computer Technology.   # Describe yourself.
+  desc: Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in SQL, PHP, Magento, Python, WordPress, Joomla, Drupal, Typo3 and Databases. Strong engineering professional with a Bachelor of Computer Application focused in Computer Science from National Institute of Computer Technology.   # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
